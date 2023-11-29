@@ -2,7 +2,7 @@
 
 ##  Olá, mundo! Me chamo Thiago Araujo 👋 
 
-<p>Moro em Cachoeiras de Macacu a 1 hora do centro do Rio de Janeiro, tenho 34 anos e sou <strong>Desenvolvedor Front-End</strong>💻
+<p>Moro em Cachoeiras de Macacu a uma hora do centro do Rio de Janeiro, tenho 34 anos e sou <strong>Desenvolvedor Front-End</strong>💻
 </p>
 <br>
 
